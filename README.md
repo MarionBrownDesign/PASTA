@@ -34,7 +34,12 @@
 <a href="https://www.bbcgoodfood.com/recipes/porchetta-ragu"> Porchetta Ragu 😍 </a> 
 <br>
 <a href="https://www.bbcgoodfood.com/recipes/spaghetti-puttanesca"> Spaghetti Putanesca 😍 </a>
+<br>
+<a href="https://www.bbcgoodfood.com/recipes/creamy-mushroom-pasta"> Mushroom Taglitelle 😍 </a>
+<br>
+<a href="https://www.bbcgoodfood.com/recipes/creamy-pumpkin-pasta"> Pumpkin Rigatoni 😍 </a> 
 
+<br>
 <br>
 <h1> THE PASTA STORY.. </h1> 
 
