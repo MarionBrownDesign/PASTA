@@ -8,7 +8,7 @@
 <div style=background-color:#33475b;>
 <body>
 
-ing sec 
+<img src="https://img.freepik.com/free-vector/spaghetti-cartoon-illustration_138676-1485.jpg?w=2000"/>
 
 <h1 align="center" > 🍝PASTA APPRECIATION SOCIETY🍝 </h1> 
 <p align="center"> Do you know the greatest food of all time ? </p>
