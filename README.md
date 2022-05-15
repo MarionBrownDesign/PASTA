@@ -1,15 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-
-
-
-<div style="background-image:url(//www.html.am/images/image-codes/milford_sound_t.jpg);width:220px;height:140px;color:black;font-size:18px;">
-
-
-
-
-
+<br>
 
 </head>
 
