@@ -6,7 +6,6 @@
 </head>
 <body>
 <h1> PASTA APPRECIATION SOCIETY </h1>
-<br>
 <p> Do you know the greatest food of all time ? </p>
 <br> 
 <p>..it has to be...drum roll please..</p>
@@ -26,6 +25,12 @@
 <li> YOU CAN HAVE IT YOUR WAY! </li> 
 
 </ul> 
+
+<br>
+<h1> TASTIEST PASTA RECIPES!!</h1> 
+<p> <i> "Just like Mama Used to Make!" </i> </p> 
+<br> 
+
 <br>
 <h1> THE PASTA STORY.. </h1> 
 
