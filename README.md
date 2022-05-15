@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1 align="center"> PASTA APPRECIATION SOCIETY </h1> 
+<h1 align="center" > 🍝PASTA APPRECIATION SOCIETY🍝 </h1> 
 <p align="center"> Do you know the greatest food of all time ? </p>
 <br> 
 <p align="center">..it has to be...drum roll please..</p>
