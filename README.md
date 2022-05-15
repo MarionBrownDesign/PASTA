@@ -8,7 +8,10 @@
 <div style=background-color:#33475b;>
 <body>
 
-<img src="https://img.freepik.com/free-vector/spaghetti-cartoon-illustration_138676-1485.jpg?w=2000"/>
+<img src:"https://images.all-free-download.com/images/graphiclarge/traditional_pasta_art_background_vector_580527.jpg"/>
+<img src:"https://www.freepik.com/premium-vector/spaghetti-illustration-poster-icon-template-purposes_25992047.htm#query=spaghetti&position=7&from_view=keyword"/> 
+
+<img src:"https://img.freepik.com/free-vector/spaghetti-cartoon-illustration_138676-1485.jpg?w=2000"/>
 
 <h1 align="center" > 🍝PASTA APPRECIATION SOCIETY🍝 </h1> 
 <p align="center"> Do you know the greatest food of all time ? </p>
@@ -55,6 +58,7 @@ Pasta is traditionally made from wheat, water, eggs, and salt. The first pasta d
 <br>
 The first pastas were made by boiling a big sheet of dough, but as time progressed people decided that was not efficient enough. According to Greek mythology, the first mention of a pasta maker was when the god Hephaestus make long strands of dough and compressed them through two rotating tubes. In the 14th and 15th centuries, pasta became extremely popular for its easy storage. This allowed people to easily transport pasta with them on their journey to the New World. Once voyagers made landfall, pasta was spread across the world.
 </p> 
+
 
 </div>
 
