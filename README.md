@@ -5,16 +5,17 @@
 
 </head>
 <body>
-<h1> PASTA APPRECIATION SOCIETY </h1>
-<p> Do you know the greatest food of all time ? </p>
+
+<h1 align="center"> PASTA APPRECIATION SOCIETY </h1> 
+<p align="center"> Do you know the greatest food of all time ? </p>
 <br> 
-<p>..it has to be...drum roll please..</p>
+<p align="center">..it has to be...drum roll please..</p>
 <br> 
-<h1>PASTA!!</h1> 
+<h1 align="center" >PASTA!!</h1> 
 <br>
-<p> It is delicious and it comes in so many flavours and colours , Taglitelle , Penne , Ravioli , Spaghetti , Tomatoe , Pesto , Carbonara and so much more !</p>
+<p align="center"> It is delicious and it comes in so many flavours and colours , Taglitelle , Penne , Ravioli , Spaghetti , Tomatoe , Pesto , Carbonara and so much more !</p>
 <br>
-<h1> 5 REASONS WHY PASTA IS THE GREATEST! </h1>
+<h1 align="center"> 5 REASONS WHY PASTA IS THE GREATEST! </h1>
 <br>
 
 <ul style=“list-style-type:square">
@@ -27,8 +28,8 @@
 </ul> 
 
 <br>
-<h1> TASTIEST PASTA RECIPES!!</h1> 
-<p> <i> "Just like Mama Used to Make!" </i> </p> 
+<h1 align="center"> TASTIEST PASTA RECIPES!!</h1> 
+<p align="center" > <i> "Just like Mama Used to Make!" </i> </p> 
 <br> 
 
 <a href="https://www.bbcgoodfood.com/recipes/porchetta-ragu"> Porchetta Ragu 😍 </a> 
@@ -41,7 +42,7 @@
 
 <br>
 <br>
-<h1> THE PASTA STORY.. </h1> 
+<h1 align="center" > THE PASTA STORY.. </h1> 
 
 <p> 
 Pasta is one of my favorite foods. For years it has been an easy, convenient meal for me and my family. Recently, I was boiling some pasta and I was wondering, what was exactly the history of this tremendously tasty food. I did some research and discovered the long, complicated past of noodles.<br>
@@ -50,5 +51,8 @@ Pasta is traditionally made from wheat, water, eggs, and salt. The first pasta d
 <br>
 The first pastas were made by boiling a big sheet of dough, but as time progressed people decided that was not efficient enough. According to Greek mythology, the first mention of a pasta maker was when the god Hephaestus make long strands of dough and compressed them through two rotating tubes. In the 14th and 15th centuries, pasta became extremely popular for its easy storage. This allowed people to easily transport pasta with them on their journey to the New World. Once voyagers made landfall, pasta was spread across the world.
 </p> 
+
+
+
 </body>
 </html>
